@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+Is+Bharat+Roy;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <a>
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGFsayJmXyjcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729924334539?e=1740614400&v=beta&t=0PdVJR8Kg_osxlwpoSMl0I1VFZHd484JIkmB4if5G6w">
-  </a>
 </h1>
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -18,11 +15,11 @@
 - 🎯 2025 Goals: DevOps, AWS, Blockchain
 - ⚡ Fun Fact: I want to learn everything 🤣
 
-<a href="https://github.com/ManikHossainDev" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ManikHossainDev?label=Github&style=flat">
+<a href="https://github.com/bharatroy4D" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bharatroy4D?label=Github&style=flat">
   </a>
-  <a href="https://github.com/ManikHossainDev" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ManikHossainDev&label=Profile%20views&color=0e75b6&style=flat" alt="Programmer-Manik" />
+  <a href="https://github.com/bharatroy4D" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=bharatroy4D&label=Profile%20views&color=0e75b6&style=flat" alt="Programmer-Manik" />
   </a> 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
