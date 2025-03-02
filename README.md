@@ -86,13 +86,13 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=bharatroy4D&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" 
     alt="devManik" 
     style="width: 50%; height:150px;"
   />
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ManikHossainDev&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatroy4D&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" 
     alt="devManik" 
     style="width: 48%; height: 150px;"
   />
